@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-07-15T09:46:34.747983+00:00",
+  "scraped_pages": 188,
+  "rejected_pages": 84,
+  "valid_page_urls": 104,
+  "unique_articles": 71,
+  "duplicate_groups": 18,
+  "near_duplicate_candidates": 0,
+  "generated_terms": 71,
+  "article_images": 71,
+  "public_article_fields": [
+    "id",
+    "slug",
+    "title",
+    "published_at",
+    "read_minutes",
+    "language",
+    "locale",
+    "locations",
+    "ad_contents",
+    "lp_titles",
+    "term",
+    "term_items",
+    "excerpt",
+    "content_blocks"
+  ]
+}

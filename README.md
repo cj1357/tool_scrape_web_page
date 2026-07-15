@@ -12,6 +12,62 @@
 
 整个任务的汇总位于 `scraped_output/summary.csv` 和 `summary.json`。
 
+## 清洗为落地页 / Search 页数据
+
+抓取完成并把 `scraped_output/` 拉回项目后，在项目根目录执行：
+
+```powershell
+python -m pip install -r requirements-clean.txt
+Set-ExecutionPolicy -Scope Process Bypass
+./clean-articles.ps1
+```
+
+指定其他项目内输出目录时：
+
+```powershell
+./clean-articles.ps1 -OutputDirectory ./cleaned_data_test
+```
+
+清洗器会读取根目录下的 `adradar_*.csv` 和 `scraped_output/`，排除拒绝页、广告/搜索推荐、导航、Cookie、分享、页脚和品牌 Logo；按规范化正文精确去重，并把文章正文转为模板可直接消费的结构化块。每次运行会重新生成整个输出目录。
+
+当前数据生成结果是：188 个抓取页，84 个拒绝页，104 个有效 URL，去重后 71 篇实际文章。
+
+```text
+cleaned_data/
+├─ manifest.json                 # 数量汇总与公开字段清单
+├─ articles.json                 # 全部文章数组
+├─ articles.csv                  # 便于人工筛选和审阅的扁平表
+├─ search-index.json             # Search 页使用的轻量索引
+├─ articles/
+│  └─ <slug>.json                # 每篇文章一个 JSON
+├─ assets/articles/<slug>/
+│  └─ hero.<ext>                 # 正文图片，不含站点 Logo
+└─ reports/
+   ├─ rejected.csv               # 无实际正文 / Access denied
+   ├─ duplicates.csv             # URL 到去重文章的映射
+   ├─ near-duplicates.csv        # 近似重复候选
+   ├─ repaired-titles.csv        # 空、拒绝页或乱码 LP Title 修复记录
+   └─ term-review.csv            # term 输入、结果和校验状态
+```
+
+单篇文章 JSON 字段如下：
+
+- `id`、`slug`、`title`、`published_at`、`read_minutes`
+- `language`、`locale`、`locations`
+- `ad_contents`、`lp_titles`
+- `term`：Search/List 广告可直接使用的空格连接字符串
+- `term_items`：`term` 对应的 4–6 个独立关键词组
+- `excerpt`
+- `content_blocks`：顺序保存 `heading`、`paragraph`、`list`、`table`、`image`、`disclaimer`
+
+单篇 JSON 特意不包含 `content_html`、`sources`、`content_hash`。来源、去重和修复信息只放在独立报告里。
+
+清洗和 term 规则测试：
+
+```powershell
+python -m unittest -v test_clean_articles.py
+```
+
 ## 在 Windows VPS 上运行
 
 建议使用 PowerShell 7；Windows PowerShell 5.1 也可以运行。
