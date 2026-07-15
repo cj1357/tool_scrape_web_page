@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=allgemeines%20wissen%20uber%20die%20flughafenarbeit\u0026arq=flughafenbetrieb\u0026pub=vps_scraper\u0026rac=allgemeines+wissen+uber+die+flughafenarbeit+flughafenbetrieb\u0026asid=a1_ch8111\u0026terms=flughafenbetrieb\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=allgemeines%20wissen%20uber%20die%20flughafenarbeit\u0026arq=flughafenbetrieb\u0026pub=vps_scraper\u0026rac=allgemeines+wissen+uber+die+flughafenarbeit+flughafenbetrieb\u0026asid=a1_ch8111\u0026terms=flughafenbetrieb\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Allgemeines Wissen über die Flughafenarbeit: Ein Blick hinter die Kulissen - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:36:20.3039300+00:00",
+    "finished_at":  "2026-07-15T04:36:23.0930212+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  77,
+                        "original_url":  "https://www.discovaz.com/dsr?q=allgemeines%20wissen%20uber%20die%20flughafenarbeit\u0026arq=flughafenbetrieb\u0026pub={placement}\u0026rac=allgemeines+wissen+uber+die+flughafenarbeit+flughafenbetrieb\u0026asid=a1_ch8111\u0026terms=flughafenbetrieb\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

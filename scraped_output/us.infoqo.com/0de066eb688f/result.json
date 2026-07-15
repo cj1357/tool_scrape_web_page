@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://us.infoqo.com/dsr?q=use%20cases%20of%20ai%20phone%20agent\u0026arq=ai+phone+agent\u0026pub=vps_scraper\u0026rac=use+cases+of+ai+phone+agent+ai+phone+agent\u0026asid=iq_ch425\u0026terms=ai+phone+agent\u0026ad_id=0",
+    "final_url":  "https://us.infoqo.com/dsr?q=use%20cases%20of%20ai%20phone%20agent\u0026arq=ai+phone+agent\u0026pub=vps_scraper\u0026rac=use+cases+of+ai+phone+agent+ai+phone+agent\u0026asid=iq_ch425\u0026terms=ai+phone+agent\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Top Use Cases of AI Phone Agent in 2026: From NASA to Your Local Farm - InfoQo",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  6,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:35:41.5662861+00:00",
+    "finished_at":  "2026-07-15T04:35:44.7468411+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-15.csv",
+                        "row":  5,
+                        "original_url":  "https://us.infoqo.com/dsr?q=use%20cases%20of%20ai%20phone%20agent\u0026arq=ai+phone+agent\u0026pub={placement}\u0026rac=use+cases+of+ai+phone+agent+ai+phone+agent\u0026asid=iq_ch425\u0026terms=ai+phone+agent\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

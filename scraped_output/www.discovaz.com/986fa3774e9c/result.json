@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=erforschung+virtueller+ki-agenten\u0026de=mobile\u0026arq=ai+virtueller+agent\u0026pub=vps_scraper\u0026rac=erforschung+virtueller+ki-agenten+mchten+sie+ihren+eigenen+virtuellen+ki-agenten+erstellen+ki-agenten+bieten+mglicherweise+weitaus+mehr+mglichkeiten+als+viele+glauben+neugierig+geworden+entdecken+sie+relevante+informationen+ber+virtuelle+ki-agenten+auf+der+website+lesen+sie+mehr+ber+ki-gesttzte+virtuelle+agenten+ai+virtueller+agent\u0026asid=a1_ch3961\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=erforschung+virtueller+ki-agenten\u0026de=mobile\u0026arq=ai+virtueller+agent\u0026pub=vps_scraper\u0026rac=erforschung+virtueller+ki-agenten+mchten+sie+ihren+eigenen+virtuellen+ki-agenten+erstellen+ki-agenten+bieten+mglicherweise+weitaus+mehr+mglichkeiten+als+viele+glauben+neugierig+geworden+entdecken+sie+relevante+informationen+ber+virtuelle+ki-agenten+auf+der+website+lesen+sie+mehr+ber+ki-gesttzte+virtuelle+agenten+ai+virtueller+agent\u0026asid=a1_ch3961\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Virtuelle KI-Agenten: Digitale Helfer erforschen neue Möglichkeiten - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:37:29.8022036+00:00",
+    "finished_at":  "2026-07-15T04:37:32.5863552+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  111,
+                        "original_url":  "https://www.discovaz.com/dsr?q=erforschung+virtueller+ki-agenten\u0026de=mobile\u0026arq=ai+virtueller+agent\u0026pub={placement}\u0026rac=erforschung+virtueller+ki-agenten+mchten+sie+ihren+eigenen+virtuellen+ki-agenten+erstellen+ki-agenten+bieten+mglicherweise+weitaus+mehr+mglichkeiten+als+viele+glauben+neugierig+geworden+entdecken+sie+relevante+informationen+ber+virtuelle+ki-agenten+auf+der+website+lesen+sie+mehr+ber+ki-gesttzte+virtuelle+agenten+ai+virtueller+agent\u0026asid=a1_ch3961\u0026terms=\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

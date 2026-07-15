@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=scopri%20di%20piu%20sull%20email%20marketing%20per%20i%20nuovi%20client\u0026arq=email+marketing+per+nuovi+client\u0026pub=vps_scraper\u0026rac=scopri+di+piu+sull+email+marketing+per+i+nuovi+client+inizia+a+imparare+su+email+marketing+per+nuovi+clienti+email+marketing+per+nuovi+client\u0026asid=a1_ch10268\u0026terms=email+marketing+per+nuovi+client\u0026locale=it_IT\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=scopri%20di%20piu%20sull%20email%20marketing%20per%20i%20nuovi%20client\u0026arq=email+marketing+per+nuovi+client\u0026pub=vps_scraper\u0026rac=scopri+di+piu+sull+email+marketing+per+i+nuovi+client+inizia+a+imparare+su+email+marketing+per+nuovi+clienti+email+marketing+per+nuovi+client\u0026asid=a1_ch10268\u0026terms=email+marketing+per+nuovi+client\u0026locale=it_IT\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:44:45.7102807+00:00",
+    "finished_at":  "2026-07-15T04:44:47.3288388+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  46,
+                        "original_url":  "https://www.discovaz.com/dsr?q=scopri%20di%20piu%20sull%20email%20marketing%20per%20i%20nuovi%20client\u0026arq=email+marketing+per+nuovi+client\u0026pub={placement}\u0026rac=scopri+di+piu+sull+email+marketing+per+i+nuovi+client+inizia+a+imparare+su+email+marketing+per+nuovi+clienti+email+marketing+per+nuovi+client\u0026asid=a1_ch10268\u0026terms=email+marketing+per+nuovi+client\u0026locale=it_IT\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

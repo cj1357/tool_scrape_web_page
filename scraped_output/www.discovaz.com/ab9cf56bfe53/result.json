@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=erhalten%20sie%20einblicke%20in%20das%20zugangskontrollsystem\u0026arq=zugangskontrollsystem\u0026pub=vps_scraper\u0026rac=erhalten+sie+einblicke+in+das+zugangskontrollsystem+beginne+mehr+uber+zugangskontrollsystem+zu+lernen+zugangskontrollsystem\u0026asid=a1_ch8972\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=erhalten%20sie%20einblicke%20in%20das%20zugangskontrollsystem\u0026arq=zugangskontrollsystem\u0026pub=vps_scraper\u0026rac=erhalten+sie+einblicke+in+das+zugangskontrollsystem+beginne+mehr+uber+zugangskontrollsystem+zu+lernen+zugangskontrollsystem\u0026asid=a1_ch8972\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Erhalten Sie Einblicke in das Zugangskontrollsystem: Sicherheit im Jahr 2026 - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:37:33.4559670+00:00",
+    "finished_at":  "2026-07-15T04:37:36.0551979+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  118,
+                        "original_url":  "https://www.discovaz.com/dsr?q=erhalten%20sie%20einblicke%20in%20das%20zugangskontrollsystem\u0026arq=zugangskontrollsystem\u0026pub={placement}\u0026rac=erhalten+sie+einblicke+in+das+zugangskontrollsystem+beginne+mehr+uber+zugangskontrollsystem+zu+lernen+zugangskontrollsystem\u0026asid=a1_ch8972\u0026terms=\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

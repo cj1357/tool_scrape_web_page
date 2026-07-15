@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=i%20want%20to%20start%20my%20own%20business%20what%20should%20i%20do\u0026arq=i+want+to+start+my+own+business\u0026pub=vps_scraper\u0026rac=i+want+to+start+my+own+business+what+should+i+do+start+learning+about+start+my+own+business+i+want+to+start+my+own+business\u0026asid=a1_ch8056\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=i%20want%20to%20start%20my%20own%20business%20what%20should%20i%20do\u0026arq=i+want+to+start+my+own+business\u0026pub=vps_scraper\u0026rac=i+want+to+start+my+own+business+what+should+i+do+start+learning+about+start+my+own+business+i+want+to+start+my+own+business\u0026asid=a1_ch8056\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "I Want to Start My Own Business: What Should I Do? - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:39:50.6800400+00:00",
+    "finished_at":  "2026-07-15T04:39:52.8485725+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  35,
+                        "original_url":  "https://www.discovaz.com/dsr?q=i%20want%20to%20start%20my%20own%20business%20what%20should%20i%20do\u0026arq=i+want+to+start+my+own+business\u0026pub={placement}\u0026rac=i+want+to+start+my+own+business+what+should+i+do+start+learning+about+start+my+own+business+i+want+to+start+my+own+business\u0026asid=a1_ch8056\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=medizinische%20software%202026%20entdecken\u0026arq=medizinische+software+2026\u0026pub=vps_scraper\u0026rac=medizinische+software+2026+entdecken+lesen+sie+mehr+uber+medizinische+software+2026+medizinische+software+2026\u0026asid=a1_ch7510\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=medizinische%20software%202026%20entdecken\u0026arq=medizinische+software+2026\u0026pub=vps_scraper\u0026rac=medizinische+software+2026+entdecken+lesen+sie+mehr+uber+medizinische+software+2026+medizinische+software+2026\u0026asid=a1_ch7510\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Medizinische Software 2026 entdecken: Wie smarte Technik deine Gesundheit schützt - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:43:52.5198630+00:00",
+    "finished_at":  "2026-07-15T04:43:54.6945643+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  115,
+                        "original_url":  "https://www.discovaz.com/dsr?q=medizinische%20software%202026%20entdecken\u0026arq=medizinische+software+2026\u0026pub={placement}\u0026rac=medizinische+software+2026+entdecken+lesen+sie+mehr+uber+medizinische+software+2026+medizinische+software+2026\u0026asid=a1_ch7510\u0026terms=\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

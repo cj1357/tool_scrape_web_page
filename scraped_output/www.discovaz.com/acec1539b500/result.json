@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=get%20insights%20on%20sme%20phone%20packages\u0026arq=sme+phone+packages\u0026pub=vps_scraper\u0026rac=get+insights+on+sme+phone+packages+start+learning+about+sme+phone+packages+sme+phone+packages\u0026asid=a1_ch10194\u0026terms=sme+phone+packages\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=get%20insights%20on%20sme%20phone%20packages\u0026arq=sme+phone+packages\u0026pub=vps_scraper\u0026rac=get+insights+on+sme+phone+packages+start+learning+about+sme+phone+packages+sme+phone+packages\u0026asid=a1_ch10194\u0026terms=sme+phone+packages\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Get Insights on SME Phone Packages: Simple Modern Business Guide - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:39:00.0276680+00:00",
+    "finished_at":  "2026-07-15T04:39:03.1859814+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  102,
+                        "original_url":  "https://www.discovaz.com/dsr?q=get%20insights%20on%20sme%20phone%20packages\u0026arq=sme+phone+packages\u0026pub={placement}\u0026rac=get+insights+on+sme+phone+packages+start+learning+about+sme+phone+packages+sme+phone+packages\u0026asid=a1_ch10194\u0026terms=sme+phone+packages\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

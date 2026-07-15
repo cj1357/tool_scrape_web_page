@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=exploring+ai+virtual+agents\u0026de=mobile\u0026arq=ai+virtual+agent\u0026pub=vps_scraper\u0026rac=exploring+ai+virtual+agents+want+to+create+your+own+ai+virtual+agent+ai+agents+may+offer+way+more+possibilities+than+many+realize+curious+explore+relevant+info+about+ai+virtual+agents+on+the+website+explore+relevant+info+about+ai+ai+virtual+agents+on+the+website\u0026asid=a1_ch4989\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=exploring+ai+virtual+agents\u0026de=mobile\u0026arq=ai+virtual+agent\u0026pub=vps_scraper\u0026rac=exploring+ai+virtual+agents+want+to+create+your+own+ai+virtual+agent+ai+agents+may+offer+way+more+possibilities+than+many+realize+curious+explore+relevant+info+about+ai+virtual+agents+on+the+website+explore+relevant+info+about+ai+ai+virtual+agents+on+the+website\u0026asid=a1_ch4989\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Exploring AI virtual agents: revolutionizing customer interaction - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:38:31.7797374+00:00",
+    "finished_at":  "2026-07-15T04:38:33.8395453+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  124,
+                        "original_url":  "https://www.discovaz.com/dsr?q=exploring+ai+virtual+agents\u0026de=mobile\u0026arq=ai+virtual+agent\u0026pub={placement}\u0026rac=exploring+ai+virtual+agents+want+to+create+your+own+ai+virtual+agent+ai+agents+may+offer+way+more+possibilities+than+many+realize+curious+explore+relevant+info+about+ai+virtual+agents+on+the+website+explore+relevant+info+about+ai+ai+virtual+agents+on+the+website\u0026asid=a1_ch4989\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

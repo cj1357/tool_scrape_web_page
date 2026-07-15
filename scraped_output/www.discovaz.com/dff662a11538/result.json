@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=entdecken%20sie%20weitere%20informationen%20uber%20unbewaffnete%20sicherheitskrafte\u0026arq=unbewaffnetes+sicherheitspersonal\u0026pub=vps_scraper\u0026rac=entdecken+sie+weitere+informationen+uber+unbewaffnete+sicherheitskrafte+beginnen+sie+mehr+uber+unbewaffnetes+sicherheitspersonal+zu+lernen+unbewaffnetes+sicherheitspersonal\u0026asid=a1_ch10621\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=entdecken%20sie%20weitere%20informationen%20uber%20unbewaffnete%20sicherheitskrafte\u0026arq=unbewaffnetes+sicherheitspersonal\u0026pub=vps_scraper\u0026rac=entdecken+sie+weitere+informationen+uber+unbewaffnete+sicherheitskrafte+beginnen+sie+mehr+uber+unbewaffnetes+sicherheitspersonal+zu+lernen+unbewaffnetes+sicherheitspersonal\u0026asid=a1_ch10621\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:37:07.6067155+00:00",
+    "finished_at":  "2026-07-15T04:37:09.1544192+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  94,
+                        "original_url":  "https://www.discovaz.com/dsr?q=entdecken%20sie%20weitere%20informationen%20uber%20unbewaffnete%20sicherheitskrafte\u0026arq=unbewaffnetes+sicherheitspersonal\u0026pub={placement}\u0026rac=entdecken+sie+weitere+informationen+uber+unbewaffnete+sicherheitskrafte+beginnen+sie+mehr+uber+unbewaffnetes+sicherheitspersonal+zu+lernen+unbewaffnetes+sicherheitspersonal\u0026asid=a1_ch10621\u0026terms=\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

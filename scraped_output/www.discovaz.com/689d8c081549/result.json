@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=general%20knowledge%20of%20packaging%20industry%20\u0026arq=packaging+industry\u0026pub=vps_scraper\u0026rac=general+knowledge+of+packaging+industry+start+learning+about+packaging+industry+packaging+industry\u0026asid=a1_ch10320\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=general%20knowledge%20of%20packaging%20industry%20\u0026arq=packaging+industry\u0026pub=vps_scraper\u0026rac=general+knowledge+of+packaging+industry+start+learning+about+packaging+industry+packaging+industry\u0026asid=a1_ch10320\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "The Friendly World of Boxes and Bottles: General Knowledge of Packaging Industry - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:38:37.6765937+00:00",
+    "finished_at":  "2026-07-15T04:38:39.8167176+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  74,
+                        "original_url":  "https://www.discovaz.com/dsr?q=general%20knowledge%20of%20packaging%20industry%20\u0026arq=packaging+industry\u0026pub={placement}\u0026rac=general+knowledge+of+packaging+industry+start+learning+about+packaging+industry+packaging+industry\u0026asid=a1_ch10320\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=erfahren%20sie%20mehr%20uber%20e%20mail%20marketing%20fur%20neukunden\u0026arq=e+mail+marketing+fur+neukunden\u0026pub=vps_scraper\u0026rac=erfahren+sie+mehr+uber+e+mail+marketing+fur+neukunden+beginnen+sie+mehr+uber+e+mail+marketing+fur+neukunden+zu+lernen+e+mail+marketing+fur+neukunden\u0026asid=a1_ch8268\u0026terms=e+mail+marketing+fur+neukunden\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=erfahren%20sie%20mehr%20uber%20e%20mail%20marketing%20fur%20neukunden\u0026arq=e+mail+marketing+fur+neukunden\u0026pub=vps_scraper\u0026rac=erfahren+sie+mehr+uber+e+mail+marketing+fur+neukunden+beginnen+sie+mehr+uber+e+mail+marketing+fur+neukunden+zu+lernen+e+mail+marketing+fur+neukunden\u0026asid=a1_ch8268\u0026terms=e+mail+marketing+fur+neukunden\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Erfahren Sie mehr über E-Mail Marketing für Neukunden: Ihr Weg zum 40-fachen Erfolg - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:37:26.4355402+00:00",
+    "finished_at":  "2026-07-15T04:37:28.9438664+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  85,
+                        "original_url":  "https://www.discovaz.com/dsr?q=erfahren%20sie%20mehr%20uber%20e%20mail%20marketing%20fur%20neukunden\u0026arq=e+mail+marketing+fur+neukunden\u0026pub={placement}\u0026rac=erfahren+sie+mehr+uber+e+mail+marketing+fur+neukunden+beginnen+sie+mehr+uber+e+mail+marketing+fur+neukunden+zu+lernen+e+mail+marketing+fur+neukunden\u0026asid=a1_ch8268\u0026terms=e+mail+marketing+fur+neukunden\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

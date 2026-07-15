@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20how%20to%20build%20jersey%20with%20builder%20software\u0026arq=builder+software\u0026pub=vps_scraper\u0026rac=learn+how+to+build+jersey+with+builder+software+read+more+info+on+builder+software+builder+software\u0026asid=a1_ch9169\u0026terms=builder+software\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20how%20to%20build%20jersey%20with%20builder%20software\u0026arq=builder+software\u0026pub=vps_scraper\u0026rac=learn+how+to+build+jersey+with+builder+software+read+more+info+on+builder+software+builder+software\u0026asid=a1_ch9169\u0026terms=builder+software\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Learn How to Build Jersey With Builder Software for Your Team - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:41:42.9291279+00:00",
+    "finished_at":  "2026-07-15T04:41:45.0998500+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  128,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20how%20to%20build%20jersey%20with%20builder%20software\u0026arq=builder+software\u0026pub={placement}\u0026rac=learn+how+to+build+jersey+with+builder+software+read+more+info+on+builder+software+builder+software\u0026asid=a1_ch9169\u0026terms=builder+software\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20custom%20build%20software\u0026arq=custom+build+software\u0026pub=vps_scraper\u0026rac=learn+broadly+on+custom+build+software+read+more+about+custom+build+software+custom+build+software\u0026asid=a1_ch8538\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20custom%20build%20software\u0026arq=custom+build+software\u0026pub=vps_scraper\u0026rac=learn+broadly+on+custom+build+software+read+more+about+custom+build+software+custom+build+software\u0026asid=a1_ch8538\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Learn Broadly on Custom Build Software: Your Journey to Digital Success - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:40:48.5527083+00:00",
+    "finished_at":  "2026-07-15T04:40:50.7227138+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  120,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20custom%20build%20software\u0026arq=custom+build+software\u0026pub={placement}\u0026rac=learn+broadly+on+custom+build+software+read+more+about+custom+build+software+custom+build+software\u0026asid=a1_ch8538\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

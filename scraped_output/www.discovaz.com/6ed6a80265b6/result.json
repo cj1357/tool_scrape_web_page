@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=how+to+get+products+through+email+marketing\u0026de=mobile\u0026arq=email+marketing+products\u0026pub=vps_scraper\u0026rac=how+to+get+products+through+email+marketing+start+learning+about+getting+products+via+email+marketing+email+marketing+products\u0026asid=a1_ch3617\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=how+to+get+products+through+email+marketing\u0026de=mobile\u0026arq=email+marketing+products\u0026pub=vps_scraper\u0026rac=how+to+get+products+through+email+marketing+start+learning+about+getting+products+via+email+marketing+email+marketing+products\u0026asid=a1_ch3617\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Sell More Products from Your Inbox: A Simple Email Plan - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:39:31.7679362+00:00",
+    "finished_at":  "2026-07-15T04:39:33.9739005+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  178,
+                        "original_url":  "https://www.discovaz.com/dsr?q=how+to+get+products+through+email+marketing\u0026de=mobile\u0026arq=email+marketing+products\u0026pub={placement}\u0026rac=how+to+get+products+through+email+marketing+start+learning+about+getting+products+via+email+marketing+email+marketing+products\u0026asid=a1_ch3617\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

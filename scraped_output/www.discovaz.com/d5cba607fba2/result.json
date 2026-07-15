@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=read%20more%20about%20email%20marketing%20for%20new%20customers\u0026arq=email+marketing+for+new+customers\u0026pub=vps_scraper\u0026rac=read+more+about+email+marketing+for+new+customers+start+learning+about+email+marketing+for+new+customers+email+marketing+for+new+customers\u0026asid=a1_ch10262\u0026terms=email+marketing+for+new+customers\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=read%20more%20about%20email%20marketing%20for%20new%20customers\u0026arq=email+marketing+for+new+customers\u0026pub=vps_scraper\u0026rac=read+more+about+email+marketing+for+new+customers+start+learning+about+email+marketing+for+new+customers+email+marketing+for+new+customers\u0026asid=a1_ch10262\u0026terms=email+marketing+for+new+customers\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Email Marketing for New Customers: A Simple Inbox Welcome - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:44:08.5637314+00:00",
+    "finished_at":  "2026-07-15T04:44:11.2571676+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  69,
+                        "original_url":  "https://www.discovaz.com/dsr?q=read%20more%20about%20email%20marketing%20for%20new%20customers\u0026arq=email+marketing+for+new+customers\u0026pub={placement}\u0026rac=read+more+about+email+marketing+for+new+customers+start+learning+about+email+marketing+for+new+customers+email+marketing+for+new+customers\u0026asid=a1_ch10262\u0026terms=email+marketing+for+new+customers\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

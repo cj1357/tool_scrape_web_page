@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=entdecken+sie+weitere+informationen+zur+anwendungssicherheit\u0026de=mobile\u0026arq=anwendungssicherheit\u0026pub=vps_scraper\u0026rac=entdecken+sie+weitere+informationen+zur+anwendungssicherheit+beginnen+sie+mehr+ber+anwendungssicherheit+zu+lernen+anwendungssicherheit\u0026asid=a1_ch3725\u0026terms=anwendungssicherheit+in+meiner+nhe\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=entdecken+sie+weitere+informationen+zur+anwendungssicherheit\u0026de=mobile\u0026arq=anwendungssicherheit\u0026pub=vps_scraper\u0026rac=entdecken+sie+weitere+informationen+zur+anwendungssicherheit+beginnen+sie+mehr+ber+anwendungssicherheit+zu+lernen+anwendungssicherheit\u0026asid=a1_ch3725\u0026terms=anwendungssicherheit+in+meiner+nhe\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:37:09.9856115+00:00",
+    "finished_at":  "2026-07-15T04:37:11.5619036+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  106,
+                        "original_url":  "https://www.discovaz.com/dsr?q=entdecken+sie+weitere+informationen+zur+anwendungssicherheit\u0026de=mobile\u0026arq=anwendungssicherheit\u0026pub={placement}\u0026rac=entdecken+sie+weitere+informationen+zur+anwendungssicherheit+beginnen+sie+mehr+ber+anwendungssicherheit+zu+lernen+anwendungssicherheit\u0026asid=a1_ch3725\u0026terms=anwendungssicherheit+in+meiner+nhe\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn+how+to+build+your+dream+car+with+construction+software\u0026de=mobile\u0026arq=construction+software\u0026pub=vps_scraper\u0026rac=learn+how+to+build+your+dream+car+with+construction+software+read+more+info+about+building+your+own+car+with+construction+software+construction+software\u0026asid=a1_ch5614\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn+how+to+build+your+dream+car+with+construction+software\u0026de=mobile\u0026arq=construction+software\u0026pub=vps_scraper\u0026rac=learn+how+to+build+your+dream+car+with+construction+software+read+more+info+about+building+your+own+car+with+construction+software+construction+software\u0026asid=a1_ch5614\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Learn How to Build Your Dream Car With Free Autodesk Construction Software - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:43:01.6884372+00:00",
+    "finished_at":  "2026-07-15T04:43:04.3235303+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  28,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn+how+to+build+your+dream+car+with+construction+software\u0026de=mobile\u0026arq=construction+software\u0026pub={placement}\u0026rac=learn+how+to+build+your+dream+car+with+construction+software+read+more+info+about+building+your+own+car+with+construction+software+construction+software\u0026asid=a1_ch5614\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

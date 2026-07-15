@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20electronic%20test%20equipment\u0026arq=electronic+test+equipment\u0026pub=vps_scraper\u0026rac=that+motorcycle+you+want+you+may+have+the+opportunity+to+receive+it+so+that+you+may+help+manufacturers+improve+them+and+possibly+get+paid+get+insights+on+electronics+test+equipment\u0026asid=a1_ch10346\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20electronic%20test%20equipment\u0026arq=electronic+test+equipment\u0026pub=vps_scraper\u0026rac=that+motorcycle+you+want+you+may+have+the+opportunity+to+receive+it+so+that+you+may+help+manufacturers+improve+them+and+possibly+get+paid+get+insights+on+electronics+test+equipment\u0026asid=a1_ch10346\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Learn Broadly on Electronic Test Equipment in 2026 - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:41:39.9264174+00:00",
+    "finished_at":  "2026-07-15T04:41:42.0644454+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  83,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20electronic%20test%20equipment\u0026arq=electronic+test+equipment\u0026pub={placement}\u0026rac=that+motorcycle+you+want+you+may+have+the+opportunity+to+receive+it+so+that+you+may+help+manufacturers+improve+them+and+possibly+get+paid+get+insights+on+electronics+test+equipment\u0026asid=a1_ch10346\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

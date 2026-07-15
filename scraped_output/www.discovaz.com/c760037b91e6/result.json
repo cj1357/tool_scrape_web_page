@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20more%20about%20i%20want%20to%20start%20a%20business\u0026arq=i+want+to+start+a+business\u0026pub=vps_scraper\u0026rac=learn+more+about+i+want+to+start+a+business+start+learning+about+i+want+to+start+a+business+i+want+to+start+a+business\u0026asid=a1_ch7969\u0026terms=i+want+to+start+a+business\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20more%20about%20i%20want%20to%20start%20a%20business\u0026arq=i+want+to+start+a+business\u0026pub=vps_scraper\u0026rac=learn+more+about+i+want+to+start+a+business+start+learning+about+i+want+to+start+a+business+i+want+to+start+a+business\u0026asid=a1_ch7969\u0026terms=i+want+to+start+a+business\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:42:16.0799835+00:00",
+    "finished_at":  "2026-07-15T04:42:23.8320702+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  175,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20more%20about%20i%20want%20to%20start%20a%20business\u0026arq=i+want+to+start+a+business\u0026pub={placement}\u0026rac=learn+more+about+i+want+to+start+a+business+start+learning+about+i+want+to+start+a+business+i+want+to+start+a+business\u0026asid=a1_ch7969\u0026terms=i+want+to+start+a+business\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

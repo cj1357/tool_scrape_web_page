@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=weitere%20informationen%20von%20ki%20virtual%20agents\u0026arq=ki+virtual+agents\u0026pub=vps_scraper\u0026rac=weitere+informationen+von+ki+virtual+agents+weitere+informationen+uber+ki+virtual+agents+lessen+ki+virtual+agents\u0026asid=a1_ch8008\u0026terms=ki+virtual+agents\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=weitere%20informationen%20von%20ki%20virtual%20agents\u0026arq=ki+virtual+agents\u0026pub=vps_scraper\u0026rac=weitere+informationen+von+ki+virtual+agents+weitere+informationen+uber+ki+virtual+agents+lessen+ki+virtual+agents\u0026asid=a1_ch8008\u0026terms=ki+virtual+agents\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Weitere Informationen von KI Virtual Agents: Die Zukunft des Kundenservice im Jahr 2026 - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:45:54.9382160+00:00",
+    "finished_at":  "2026-07-15T04:45:57.5389220+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  123,
+                        "original_url":  "https://www.discovaz.com/dsr?q=weitere%20informationen%20von%20ki%20virtual%20agents\u0026arq=ki+virtual+agents\u0026pub={placement}\u0026rac=weitere+informationen+von+ki+virtual+agents+weitere+informationen+uber+ki+virtual+agents+lessen+ki+virtual+agents\u0026asid=a1_ch8008\u0026terms=ki+virtual+agents\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

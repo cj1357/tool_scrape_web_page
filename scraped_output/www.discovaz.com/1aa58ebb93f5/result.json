@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20about%20of%20energy%20management%20tools\u0026arq=energy+management+tools\u0026pub=vps_scraper\u0026rac=learn+broadly+about+of+energy+management+tools+start+learning+about+energy+management+tools+energy+management+tools\u0026asid=a1_ch7894\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20about%20of%20energy%20management%20tools\u0026arq=energy+management+tools\u0026pub=vps_scraper\u0026rac=learn+broadly+about+of+energy+management+tools+start+learning+about+energy+management+tools+energy+management+tools\u0026asid=a1_ch7894\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:40:13.2317719+00:00",
+    "finished_at":  "2026-07-15T04:40:14.7732425+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  80,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20about%20of%20energy%20management%20tools\u0026arq=energy+management+tools\u0026pub={placement}\u0026rac=learn+broadly+about+of+energy+management+tools+start+learning+about+energy+management+tools+energy+management+tools\u0026asid=a1_ch7894\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

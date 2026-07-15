@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn+broadly+about+ai+automation\u0026de=mobile\u0026arq=ai+automation\u0026pub=vps_scraper\u0026rac=learn+broadly+about+ai+automation+start+learning+about+ai+automation+ai+automation\u0026asid=a1_ch4337\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn+broadly+about+ai+automation\u0026de=mobile\u0026arq=ai+automation\u0026pub=vps_scraper\u0026rac=learn+broadly+about+ai+automation+start+learning+about+ai+automation+ai+automation\u0026asid=a1_ch4337\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Learn broadly about AI automation - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:42:49.6683737+00:00",
+    "finished_at":  "2026-07-15T04:42:51.7831800+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  180,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn+broadly+about+ai+automation\u0026de=mobile\u0026arq=ai+automation\u0026pub={placement}\u0026rac=learn+broadly+about+ai+automation+start+learning+about+ai+automation+ai+automation\u0026asid=a1_ch4337\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

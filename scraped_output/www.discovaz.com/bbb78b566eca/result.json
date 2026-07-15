@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20more%20about%20ai%20virtual%20agents\u0026arq=ai+virtual+agents\u0026pub=vps_scraper\u0026rac=learn+more+about+ai+virtual+agents+want+an+ai+agent+thats+truly+yours+the+possibilities+might+be+bigger+than+you+think+you+may+be+surprised+see+whats+possible+learn+more+about+ai+virtual+agents+start+learning+about+ai+virtual+agents+ai+virtual+agents\u0026asid=a1_ch10361\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20more%20about%20ai%20virtual%20agents\u0026arq=ai+virtual+agents\u0026pub=vps_scraper\u0026rac=learn+more+about+ai+virtual+agents+want+an+ai+agent+thats+truly+yours+the+possibilities+might+be+bigger+than+you+think+you+may+be+surprised+see+whats+possible+learn+more+about+ai+virtual+agents+start+learning+about+ai+virtual+agents+ai+virtual+agents\u0026asid=a1_ch10361\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Understanding AI virtual agents: Transforming communication - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:42:05.3585531+00:00",
+    "finished_at":  "2026-07-15T04:42:07.3667587+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  57,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20more%20about%20ai%20virtual%20agents\u0026arq=ai+virtual+agents\u0026pub={placement}\u0026rac=learn+more+about+ai+virtual+agents+want+an+ai+agent+thats+truly+yours+the+possibilities+might+be+bigger+than+you+think+you+may+be+surprised+see+whats+possible+learn+more+about+ai+virtual+agents+start+learning+about+ai+virtual+agents+ai+virtual+agents\u0026asid=a1_ch10361\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

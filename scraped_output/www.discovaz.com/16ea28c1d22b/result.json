@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=allgemeines+wissen+über+die+fernverwaltung+von+ki\u0026de=m\u0026arq=kifernverwaltungstools\u0026pub=google.com\u0026rac=allgemeines+wissen+über+die+fernverwaltung+von+ki+beginnen+sie+mit+dem+lernen+über+allgemeines+wissen+über+die+fernverwaltung+von+ki+kifernverwaltungstools\u0026asid=b15_ch1\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=allgemeines+wissen+%C3%BCber+die+fernverwaltung+von+ki\u0026de=m\u0026arq=kifernverwaltungstools\u0026pub=google.com\u0026rac=allgemeines+wissen+%C3%BCber+die+fernverwaltung+von+ki+beginnen+sie+mit+dem+lernen+%C3%BCber+allgemeines+wissen+%C3%BCber+die+fernverwaltung+von+ki+kifernverwaltungstools\u0026asid=b15_ch1\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Fernverwaltung von KI: Ein einfacher Wegweiser für alle - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:36:27.0536580+00:00",
+    "finished_at":  "2026-07-15T04:36:30.5081696+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  71,
+                        "original_url":  "https://www.discovaz.com/dsr?q=allgemeines+wissen+über+die+fernverwaltung+von+ki\u0026de=m\u0026arq=kifernverwaltungstools\u0026pub=google.com\u0026rac=allgemeines+wissen+über+die+fernverwaltung+von+ki+beginnen+sie+mit+dem+lernen+über+allgemeines+wissen+über+die+fernverwaltung+von+ki+kifernverwaltungstools\u0026asid=b15_ch1\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

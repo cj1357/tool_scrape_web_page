@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=exploring%20medical%20software%202026\u0026arq=medical+software+2026\u0026pub=vps_scraper\u0026rac=exploring+medical+software+2026+medical+software+2026\u0026asid=a1_ch7273\u0026terms=medical+software+2026\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=exploring%20medical%20software%202026\u0026arq=medical+software+2026\u0026pub=vps_scraper\u0026rac=exploring+medical+software+2026+medical+software+2026\u0026asid=a1_ch7273\u0026terms=medical+software+2026\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:38:07.2479868+00:00",
+    "finished_at":  "2026-07-15T04:38:15.0859796+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  17,
+                        "original_url":  "https://www.discovaz.com/dsr?q=exploring%20medical%20software%202026\u0026arq=medical+software+2026\u0026pub={placement}\u0026rac=exploring+medical+software+2026+medical+software+2026\u0026asid=a1_ch7273\u0026terms=medical+software+2026\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

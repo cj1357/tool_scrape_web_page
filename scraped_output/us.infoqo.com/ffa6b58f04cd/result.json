@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://us.infoqo.com/dsr?q=discover+more+about+usage+of+ai+agents\u0026de=c\u0026arq=ai+agents\u0026pub=vps_scraper\u0026rac=discover+more+about+usage+of+ai+agents+read+more+about+ai+agents+ai+agents\u0026asid=iq_ch186\u0026terms=\u0026ad_id=0",
+    "final_url":  "https://us.infoqo.com/dsr?q=discover+more+about+usage+of+ai+agents\u0026de=c\u0026arq=ai+agents\u0026pub=vps_scraper\u0026rac=discover+more+about+usage+of+ai+agents+read+more+about+ai+agents+ai+agents\u0026asid=iq_ch186\u0026terms=\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Everyday Benefits of AI Agents: Simple Ways They Can Help You - InfoQo",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  6,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:35:11.8991096+00:00",
+    "finished_at":  "2026-07-15T04:35:22.9400018+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-15.csv",
+                        "row":  7,
+                        "original_url":  "https://us.infoqo.com/dsr?q=discover+more+about+usage+of+ai+agents\u0026de=c\u0026arq=ai+agents\u0026pub={placement}\u0026rac=discover+more+about+usage+of+ai+agents+read+more+about+ai+agents+ai+agents\u0026asid=iq_ch186\u0026terms=\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

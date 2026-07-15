@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=use%20cases%20of%20ai%20assistants\u0026arq=ai+assistants\u0026pub=vps_scraper\u0026rac=use+cases+of+ai+assistants+read+more+info+on+ai+assistants+ai+assistants\u0026asid=a1_ch10612\u0026terms=ai+assistants\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=use%20cases%20of%20ai%20assistants\u0026arq=ai+assistants\u0026pub=vps_scraper\u0026rac=use+cases+of+ai+assistants+read+more+info+on+ai+assistants+ai+assistants\u0026asid=a1_ch10612\u0026terms=ai+assistants\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Use Cases of AI Assistants: Everyday Help You Can Trust - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:45:09.8726946+00:00",
+    "finished_at":  "2026-07-15T04:45:11.9766921+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  64,
+                        "original_url":  "https://www.discovaz.com/dsr?q=use%20cases%20of%20ai%20assistants\u0026arq=ai+assistants\u0026pub={placement}\u0026rac=use+cases+of+ai+assistants+read+more+info+on+ai+assistants+ai+assistants\u0026asid=a1_ch10612\u0026terms=ai+assistants\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

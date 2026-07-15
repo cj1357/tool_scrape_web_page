@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=how+to+start+game+skin+trading+in+99+nights\u0026de=mobile\u0026arq=game+skins+trading\u0026pub=vps_scraper\u0026rac=how+to+start+game+skin+trading+in+99+nights+learn+about+game+skins+trading+game+skins+trading\u0026asid=a1_ch3121\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=how+to+start+game+skin+trading+in+99+nights\u0026de=mobile\u0026arq=game+skins+trading\u0026pub=vps_scraper\u0026rac=how+to+start+game+skin+trading+in+99+nights+learn+about+game+skins+trading+game+skins+trading\u0026asid=a1_ch3121\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "How to Start Game Skin Trading in 99 Nights - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:39:41.2321383+00:00",
+    "finished_at":  "2026-07-15T04:39:43.4806465+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  140,
+                        "original_url":  "https://www.discovaz.com/dsr?q=how+to+start+game+skin+trading+in+99+nights\u0026de=mobile\u0026arq=game+skins+trading\u0026pub={placement}\u0026rac=how+to+start+game+skin+trading+in+99+nights+learn+about+game+skins+trading+game+skins+trading\u0026asid=a1_ch3121\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

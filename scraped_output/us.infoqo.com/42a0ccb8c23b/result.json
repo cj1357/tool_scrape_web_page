@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://us.infoqo.com/dsr?q=sme+phone+packages+2026\u0026de=c\u0026arq=sme+phone+plans+2026\u0026pub=vps_scraper\u0026rac=hurry+learn+more+about+sme+phone+packages+2026+on+the+site+below\u0026asid=iq_ch219\u0026terms=sme+phone+packages+2026+best+phone+systems+2026+smb+phone+package+phone+packages+for+smb+for+you+2026\u0026ad_id=0",
+    "final_url":  "https://us.infoqo.com/dsr?q=sme+phone+packages+2026\u0026de=c\u0026arq=sme+phone+plans+2026\u0026pub=vps_scraper\u0026rac=hurry+learn+more+about+sme+phone+packages+2026+on+the+site+below\u0026asid=iq_ch219\u0026terms=sme+phone+packages+2026+best+phone+systems+2026+smb+phone+package+phone+packages+for+smb+for+you+2026\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "SME Phone Packages 2026: 5 Rock-Bottom Plans Under $15 That Still Work - InfoQo",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  6,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:35:37.5172460+00:00",
+    "finished_at":  "2026-07-15T04:35:40.7117686+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-15.csv",
+                        "row":  2,
+                        "original_url":  "https://us.infoqo.com/dsr?q=sme+phone+packages+2026\u0026de=c\u0026arq=sme+phone+plans+2026\u0026pub={placement}\u0026rac=hurry+learn+more+about+sme+phone+packages+2026+on+the+site+below\u0026asid=iq_ch219\u0026terms=sme+phone+packages+2026+best+phone+systems+2026+smb+phone+package+phone+packages+for+smb+for+you+2026\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

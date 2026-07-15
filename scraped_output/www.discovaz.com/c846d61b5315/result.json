@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=wie+man+mit+bausoftware+eine+individuelles+auto+erstellt\u0026de=m\u0026arq=bausoftware\u0026pub=google.com\u0026rac=wie+man+mit+bausoftware+eine+individuelles+auto+erstellt++m?chten+sie+ihr+traumauto+bauen+bausoftware+kann+ihnen+helfen+ihre+eigenen+ideen+auf+unterhaltsame+und+einfache+weise+zum+leben+zu+erwecken+erfahren+sie+mehr+über+bausoftware+auf+der+website+lesen+sie+weitere+informationen+über+bausoftware+bausoftware\u0026asid=b15_ch97\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=wie+man+mit+bausoftware+eine+individuelles+auto+erstellt\u0026de=m\u0026arq=bausoftware\u0026pub=google.com\u0026rac=wie+man+mit+bausoftware+eine+individuelles+auto+erstellt++m?chten+sie+ihr+traumauto+bauen+bausoftware+kann+ihnen+helfen+ihre+eigenen+ideen+auf+unterhaltsame+und+einfache+weise+zum+leben+zu+erwecken+erfahren+sie+mehr+%C3%BCber+bausoftware+auf+der+website+lesen+sie+weitere+informationen+%C3%BCber+bausoftware+bausoftware\u0026asid=b15_ch97\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Wie man mit Bausoftware ein individuelles Auto erstellt - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:46:02.1509967+00:00",
+    "finished_at":  "2026-07-15T04:46:04.7543519+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  73,
+                        "original_url":  "https://www.discovaz.com/dsr?q=wie+man+mit+bausoftware+eine+individuelles+auto+erstellt\u0026de=m\u0026arq=bausoftware\u0026pub=google.com\u0026rac=wie+man+mit+bausoftware+eine+individuelles+auto+erstellt++m?chten+sie+ihr+traumauto+bauen+bausoftware+kann+ihnen+helfen+ihre+eigenen+ideen+auf+unterhaltsame+und+einfache+weise+zum+leben+zu+erwecken+erfahren+sie+mehr+über+bausoftware+auf+der+website+lesen+sie+weitere+informationen+über+bausoftware+bausoftware\u0026asid=b15_ch97\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

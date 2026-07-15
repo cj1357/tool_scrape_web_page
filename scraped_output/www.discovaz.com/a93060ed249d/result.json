@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=ai+application+security+methods+explained\u0026de=mobile\u0026arq=ai+application+security\u0026pub=vps_scraper\u0026rac=learn+more+about+ai+application+security+methods\u0026asid=a1_ch4818\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=ai+application+security+methods+explained\u0026de=mobile\u0026arq=ai+application+security\u0026pub=vps_scraper\u0026rac=learn+more+about+ai+application+security+methods\u0026asid=a1_ch4818\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "AI Application Security Methods Explained for Beginners - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:35:53.3155476+00:00",
+    "finished_at":  "2026-07-15T04:35:55.5949442+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  88,
+                        "original_url":  "https://www.discovaz.com/dsr?q=ai+application+security+methods+explained\u0026de=mobile\u0026arq=ai+application+security\u0026pub={placement}\u0026rac=learn+more+about+ai+application+security+methods\u0026asid=a1_ch4818\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

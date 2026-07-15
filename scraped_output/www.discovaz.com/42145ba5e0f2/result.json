@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=general%20knowledge%20of%20buy%20now%20pay%20later%20smart%20tv\u0026arq=buy+now+pay+later+smart+tv\u0026pub=vps_scraper\u0026rac=general+knowledge+of+buy+now+pay+later+smart+tv+buy+now+pay+later+smart+tv\u0026asid=a1_ch10184\u0026terms=buy+now+pay+later+smart+tv\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=general%20knowledge%20of%20buy%20now%20pay%20later%20smart%20tv\u0026arq=buy+now+pay+later+smart+tv\u0026pub=vps_scraper\u0026rac=general+knowledge+of+buy+now+pay+later+smart+tv+buy+now+pay+later+smart+tv\u0026asid=a1_ch10184\u0026terms=buy+now+pay+later+smart+tv\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "General Knowledge of Buy Now Pay Later Smart TV Options in 2026 - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:38:34.6617856+00:00",
+    "finished_at":  "2026-07-15T04:38:36.8207832+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  104,
+                        "original_url":  "https://www.discovaz.com/dsr?q=general%20knowledge%20of%20buy%20now%20pay%20later%20smart%20tv\u0026arq=buy+now+pay+later+smart+tv\u0026pub={placement}\u0026rac=general+knowledge+of+buy+now+pay+later+smart+tv+buy+now+pay+later+smart+tv\u0026asid=a1_ch10184\u0026terms=buy+now+pay+later+smart+tv\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

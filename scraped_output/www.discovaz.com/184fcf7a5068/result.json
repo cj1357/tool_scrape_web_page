@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=allgemeines%20wissen%20uber%20das%20verpackungsunternehmen\u0026arq=das+verpackungsunternehmen\u0026pub=vps_scraper\u0026rac=allgemeines+wissen+uber+das+verpackungsunternehmen+allgemeines+wissen+uber+das+verpackungsunternehmen+das+verpackungsunternehmen\u0026asid=a1_ch7102\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=allgemeines%20wissen%20uber%20das%20verpackungsunternehmen\u0026arq=das+verpackungsunternehmen\u0026pub=vps_scraper\u0026rac=allgemeines+wissen+uber+das+verpackungsunternehmen+allgemeines+wissen+uber+das+verpackungsunternehmen+das+verpackungsunternehmen\u0026asid=a1_ch7102\u0026terms=\u0026locale=de_DE\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:36:11.5275372+00:00",
+    "finished_at":  "2026-07-15T04:36:19.4819279+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  108,
+                        "original_url":  "https://www.discovaz.com/dsr?q=allgemeines%20wissen%20uber%20das%20verpackungsunternehmen\u0026arq=das+verpackungsunternehmen\u0026pub={placement}\u0026rac=allgemeines+wissen+uber+das+verpackungsunternehmen+allgemeines+wissen+uber+das+verpackungsunternehmen+das+verpackungsunternehmen\u0026asid=a1_ch7102\u0026terms=\u0026locale=de_DE\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

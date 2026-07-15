@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn+broadly+about+of+energy+management+tools\u0026de=mobile\u0026arq=energy+management+tools\u0026pub=vps_scraper\u0026rac=learn+broadly+about+of+energy+management+tools+start+learning+about+energy+management+tools+energy+management+tools\u0026asid=a1_ch5805\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn+broadly+about+of+energy+management+tools\u0026de=mobile\u0026arq=energy+management+tools\u0026pub=vps_scraper\u0026rac=learn+broadly+about+of+energy+management+tools+start+learning+about+energy+management+tools+energy+management+tools\u0026asid=a1_ch5805\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Learn Broadly About Energy Management Tools - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:42:55.7707519+00:00",
+    "finished_at":  "2026-07-15T04:42:57.8225422+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  52,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn+broadly+about+of+energy+management+tools\u0026de=mobile\u0026arq=energy+management+tools\u0026pub={placement}\u0026rac=learn+broadly+about+of+energy+management+tools+start+learning+about+energy+management+tools+energy+management+tools\u0026asid=a1_ch5805\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

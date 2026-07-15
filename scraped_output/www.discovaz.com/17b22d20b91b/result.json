@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20custom%20build%20software\u0026arq=custom+build+software\u0026pub=vps_scraper\u0026rac=learn+broadly+on+custom+build+software+want+to+build+the+room+of+your+dreams+it+might+be+possible+with+custom+build+software+interested+learn+how+on+the+website+start+learning+about+custom+build+software+custom+build+software\u0026asid=a1_ch10590\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20custom%20build%20software\u0026arq=custom+build+software\u0026pub=vps_scraper\u0026rac=learn+broadly+on+custom+build+software+want+to+build+the+room+of+your+dreams+it+might+be+possible+with+custom+build+software+interested+learn+how+on+the+website+start+learning+about+custom+build+software+custom+build+software\u0026asid=a1_ch10590\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Discovaz access denied",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "document-fallback",
+    "removed_non_content_blocks":  0,
+    "raw_html_saved":  false,
+    "image_count":  1,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:41:31.3644941+00:00",
+    "finished_at":  "2026-07-15T04:41:39.1169185+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  45,
+                        "original_url":  "https://www.discovaz.com/dsr?q=learn%20broadly%20on%20custom%20build%20software\u0026arq=custom+build+software\u0026pub={placement}\u0026rac=learn+broadly+on+custom+build+software+want+to+build+the+room+of+your+dreams+it+might+be+possible+with+custom+build+software+interested+learn+how+on+the+website+start+learning+about+custom+build+software+custom+build+software\u0026asid=a1_ch10590\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}

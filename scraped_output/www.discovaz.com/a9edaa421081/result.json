@@ -1,0 +1,28 @@
+{
+    "scraper_version":  2,
+    "status":  "ok",
+    "requested_url":  "https://www.discovaz.com/dsr?q=understanding+skins+construction+software+a+comprehensive+guide+for+2026\u0026de=mobile\u0026arq=skins+construction+software\u0026pub=vps_scraper\u0026rac=understanding+skins+construction+software+a+comprehensive+guide+for+2026+start+learning+about+skins+construction+software+skins+construction+software\u0026asid=a1_ch6006\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "final_url":  "https://www.discovaz.com/dsr?q=understanding+skins+construction+software+a+comprehensive+guide+for+2026\u0026de=mobile\u0026arq=skins+construction+software\u0026pub=vps_scraper\u0026rac=understanding+skins+construction+software+a+comprehensive+guide+for+2026+start+learning+about+skins+construction+software+skins+construction+software\u0026asid=a1_ch6006\u0026terms=\u0026locale=en_US\u0026ad_id=0",
+    "http_status":  200,
+    "http_reason":  "OK",
+    "content_type":  "text/html",
+    "title":  "Understanding Skins Construction Software: A 2026 Flat-Rate Guide - Discovaz",
+    "rendered_with_edge":  true,
+    "render_error":  "",
+    "advertising_filtered":  true,
+    "content_scope":  "body",
+    "removed_non_content_blocks":  3,
+    "raw_html_saved":  false,
+    "image_count":  2,
+    "failed_images":  0,
+    "started_at":  "2026-07-15T04:44:51.0572174+00:00",
+    "finished_at":  "2026-07-15T04:44:53.1668915+00:00",
+    "sources":  [
+                    {
+                        "csv":  "adradar_2026-07-14.csv",
+                        "row":  49,
+                        "original_url":  "https://www.discovaz.com/dsr?q=understanding+skins+construction+software+a+comprehensive+guide+for+2026\u0026de=mobile\u0026arq=skins+construction+software\u0026pub={placement}\u0026rac=understanding+skins+construction+software+a+comprehensive+guide+for+2026+start+learning+about+skins+construction+software+skins+construction+software\u0026asid=a1_ch6006\u0026terms=\u0026locale=en_US\u0026ad_id={creative}"
+                    }
+                ],
+    "error":  null
+}
